@@ -5,9 +5,9 @@ import MuiLink from '@material-ui/core/Link';
 export default function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {'Copyright © '}
+      {'Brenden Padilla | '}
       <MuiLink color="inherit" href="https://material-ui.com/">
-        Your Website
+        AWS Certified Solutions Architect Associate | Full-stack Developer
       </MuiLink>{' '}
       {new Date().getFullYear()}
       {'.'}

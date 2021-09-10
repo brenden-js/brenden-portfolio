@@ -16,6 +16,7 @@ const theme = createTheme({
     background: {
       default: '#fff',
     },
+    divider: 'rgba(145, 158, 171, 0.24)',
   },
 });
 
