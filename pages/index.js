@@ -2,7 +2,6 @@ import React from 'react';
 import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
-import Link from '../src/Link';
 import Copyright from '../src/Copyright';
 import ProjectBlock from '../src/ProjectBlock';
 import { Grid } from '@material-ui/core';
@@ -58,7 +57,7 @@ const projects = [
     githubLink: 'https://www.github.com/',
     projectLink: 'https://www.admin.homeplex.app',
     projectName: 'Admin Homeplex',
-    projectDesc: 'Admin panel for viewing and managing orders for Homeplex.',
+    projectDesc: 'Admin panel for viewing and managing agent marketing orders on Homeplex',
     stack: {
       frontEnd: [
         'Material-UI',
@@ -78,6 +77,22 @@ const projects = [
       ]
     }
   },
+  {
+    githubLink: 'https://www.github.com/',
+    projectLink: 'https://www.brendenp.com',
+    projectName: 'Portfolio site',
+    projectDesc: 'A simple portfolio site with a project directory',
+    stack: {
+      frontEnd: [
+        'Material-UI',
+        'Next.js'
+      ],
+      backEnd: [
+        'Vercel',
+      ]
+    }
+  },
+
 ]
 
 export default function Index() {
