@@ -9,15 +9,12 @@ import theme from '../src/theme';
 
 const projects = [
   {
-    githubLink: 'https://www.github.com/',
-    projectLink: 'https://www.scootero.app',
+    githubLink: 'https://github.com/brenden-js/agent-plex',
+    projectLink: 'https://github.com/brenden-js/agent-plex',
     projectName: 'Scootero',
-    projectDesc: 'App for riders of electric scooters/bikes/wheels to track their cost and emmissions savings vs. taking a car',
+    projectDesc: 'API for riders of electric scooters/bikes/wheels to track their cost and emmissions savings vs. taking a car',
     stack: {
       frontEnd: [
-        'Material-UI',
-        'Next.js',
-        'Google Maps API'
       ],
       backEnd: [
         'Flask REST (Python)',
@@ -30,7 +27,7 @@ const projects = [
     }
   },
   {
-    githubLink: 'https://www.github.com/',
+    githubLink: 'https://github.com/brenden-js/agent-plex',
     projectLink: 'https://public.d23a1kshq8nts4.amplifyapp.com/',
     projectName: 'Homeplex',
     projectDesc: 'App for agents to shop and schedule marketing services for their real estate listings',
@@ -55,8 +52,8 @@ const projects = [
     }
   },
   {
-    githubLink: 'https://www.github.com/',
-    projectLink: 'https://www.brendenp.com',
+    githubLink: 'https://www.github.com/brenden-js',
+    projectLink: 'https://brenden-portfolio.vercel.app/',
     projectName: 'Portfolio site',
     projectDesc: 'A simple portfolio site with a project directory',
     stack: {
