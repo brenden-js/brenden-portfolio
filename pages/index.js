@@ -31,8 +31,8 @@ const projects = [
   },
   {
     githubLink: 'https://www.github.com/',
-    projectLink: 'https://www.agent.homeplex.app',
-    projectName: 'Agent Homeplex',
+    projectLink: 'https://public.d23a1kshq8nts4.amplifyapp.com/',
+    projectName: 'Homeplex',
     projectDesc: 'App for agents to shop and schedule marketing services for their real estate listings',
     stack: {
       frontEnd: [
@@ -41,31 +41,8 @@ const projects = [
         'Redux',
         'Formik',
         'FullCalendar',
-        'Google Maps API'
-      ],
-      backEnd: [
-        'AWS AppSync',
-        'AWS DynamoDB',
-        'AWS Lambda',
-        'AWS Cognito',
-        'AWS Amplify',
-        'AWS S3',
-      ]
-    }
-  },
-  {
-    githubLink: 'https://www.github.com/',
-    projectLink: 'https://www.admin.homeplex.app',
-    projectName: 'Admin Homeplex',
-    projectDesc: 'Admin panel for viewing and managing agent marketing orders on Homeplex',
-    stack: {
-      frontEnd: [
-        'Material-UI',
-        'React',
-        'Redux',
-        'Formik',
-        'FullCalendar',
-        'Google Maps API'
+        'Google Maps API',
+        'React-PDF'
       ],
       backEnd: [
         'AWS AppSync',
