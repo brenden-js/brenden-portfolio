@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-brendenjsportfolio-dev-133653-authRole",
+      "UnauthRoleArn": "arn:aws:iam::479299194412:role/amplify-brendenjsportfolio-dev-133653-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::479299194412:role/amplify-brendenjsportfolio-dev-133653-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-brendenjsportfolio-dev-133653-deployment",
+      "UnauthRoleName": "amplify-brendenjsportfolio-dev-133653-unauthRole",
+      "StackName": "amplify-brendenjsportfolio-dev-133653",
+      "StackId": "arn:aws:cloudformation:us-west-2:479299194412:stack/amplify-brendenjsportfolio-dev-133653/fcdb9d20-2164-11ec-bc99-02418856b67f",
+      "AmplifyAppId": "d1qyu2tkvkb48a"
+    }
+  }
+}
