@@ -9,12 +9,13 @@ import theme from '../src/theme';
 
 const projects = [
   {
-    githubLink: 'https://github.com/brenden-js/agent-plex',
-    projectLink: 'https://github.com/brenden-js/agent-plex',
+    githubLink: 'https://github.com/brenden-js/scootero',
+    projectLink: 'https://github.com/brenden-js/scootero',
     projectName: 'Scootero',
     projectDesc: 'API for riders of electric scooters/bikes/wheels to track their cost and emmissions savings vs. taking a car',
     stack: {
       frontEnd: [
+        'N/A'
       ],
       backEnd: [
         'Flask REST (Python)',
@@ -28,7 +29,7 @@ const projects = [
   },
   {
     githubLink: 'https://github.com/brenden-js/agent-plex',
-    projectLink: 'https://public.d23a1kshq8nts4.amplifyapp.com/',
+    projectLink: 'https://www.homeplex.app/',
     projectName: 'Homeplex',
     projectDesc: 'App for agents to shop and schedule marketing services for their real estate listings',
     stack: {
@@ -80,7 +81,7 @@ export default function Index() {
           AWS Certified Solutions Architect Associate
         </Typography>
         <Typography>
-          Full-stack Developer
+          Full-stack Developer | Developer DAO Member
         </Typography>
         {projects.map((project) => {
           return (
